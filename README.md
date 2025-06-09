@@ -71,5 +71,6 @@
 <div align="center">
   <h1> ⚡ Stats ⚡</h1>
 </div> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=blue-green" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=blue-green" />
+</div>
