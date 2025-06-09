@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=venom&text=YBGitHub&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=Yeong%Bi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 ## A Yotta Bytes Full-Stack Developer from South Korea
 
 # 🌟 A little About Me
