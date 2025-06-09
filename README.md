@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=Venom&text=Welcome!&fontAlign=30&fontSize=30&desc=to%20my%20Github%20💕&descAlign=60&descAlignY=50&theme=radical&fill='#000000';)
+![reversal](https://capsule-render.vercel.app/api?type=Venom&text=Welcome!&fontAlign=30&fontSize=30&desc=to%20my%20Github%20😉&descAlign=60&descAlignY=50&theme=radical&fill='#000000';)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&letterSpacing=0&duration=4000&pause=1000&color=9346F7&background=FFEAF200&center=true&vCenter=true&width=1000&height=70&lines=I'm++Full+-+Stack+Developer;I'm+Language-Agnostic;I'm+Yeongbi+Choi)](https://git.io/typing-svg)
 
@@ -76,7 +76,8 @@
 </div>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio)](https://github.com/cyeongb/new_yb-portfolio)
+<img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio)](https://github.com/cyeongb/new_yb-portfolio)" />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View)](https://github.com/cyeongb/Currency_View)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend)](https://github.com/cyeongb/stock-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4)](https://github.com/cyeongb/project4)
