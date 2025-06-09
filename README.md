@@ -72,5 +72,5 @@
   <h1> ⚡ Stats ⚡</h1>
 </div> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=gruvbox" />
 </div>
