@@ -84,7 +84,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" />
+  <a src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" ></a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View" />
