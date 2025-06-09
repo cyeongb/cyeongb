@@ -67,4 +67,4 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username={cyeongb}&theme=blue-green" />
