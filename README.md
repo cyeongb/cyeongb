@@ -76,13 +76,15 @@
 </div>
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-prediction" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=pension-api-project" />
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View)](https://github.com/cyeongb/Currency_View)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend)](https://github.com/cyeongb/stock-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4)](https://github.com/cyeongb/project4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-prediction)](https://github.com/cyeongb/stock-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=pension-api-project)](https://github.com/cyeongb/pension-api-project)
 
 
 
