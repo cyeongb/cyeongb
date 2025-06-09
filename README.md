@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=venom&text=YeongBi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 <div align="center">
-  <h1>🌟 A Yotta Bytes Full-Stack Developer from South Korea 🌟</h1>
+  <h1>🌟 A Y . B Full-Stack Developer from South Korea 🌟</h1>
 </div> 
 
 <div align="center">
