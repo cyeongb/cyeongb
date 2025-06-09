@@ -76,7 +76,7 @@
 </div>
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio)](https://github.com/cyeongb/new_yb-portfolio)" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View)](https://github.com/cyeongb/Currency_View)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend)](https://github.com/cyeongb/stock-frontend)
