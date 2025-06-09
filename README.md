@@ -27,4 +27,7 @@
   <h3>📫 How to reach me: LinkedIn , Instagram</h3>
 </div> 
 
-⚒️ Languages - Frameworks - Tools ⚒️ skills
+<div align="center">
+  <h1>⚒️ What I've Used⚒️</h1>
+</div> 
+
