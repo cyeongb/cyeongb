@@ -35,4 +35,4 @@
 <div align="center">
   <h1>🧱TooLs 🧱 </h1>
 </div> 
-<div>https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white</div>
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
