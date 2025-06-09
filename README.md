@@ -1,7 +1,9 @@
-![reversal](https://capsule-render.vercel.app/api?type=venom&text=Yeong%Bi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=YeongBi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 ## A Yotta Bytes Full-Stack Developer from South Korea
 
 # 🌟 A little About Me
+
+# 🤚🏻 Hi! my name is Yeongbi Choi
 
 🔭 I'm currently "looking for a job"
 
