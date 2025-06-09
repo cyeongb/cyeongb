@@ -84,14 +84,25 @@
 </div> 
 
 <div align="center">
-  <a href="https://github.com/cyeongb/new_yb-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=new_yb-portfolio"/>
+  <a href="https://github.com/cyeongb/new_yb-portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=new_yb-portfolio"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=Currency_View" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-prediction" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=pension-api-project" />
+  <a href="https://github.com/cyeongb/stock-frontend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=repo=stock-frontend"/>
+  </a>
+  <a href="https://github.com/cyeongb/project4" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=project4"/>
+  </a>
+  <a href="https://github.com/cyeongb/Currency_View" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=Currency_View"/>
+  </a>
+  <a href="https://github.com/cyeongb/stock-prediction" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=stock-prediction"/>
+  </a>
+  <a href="https://github.com/cyeongb/pension-api-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=pension-api-project"/>
+  </a>
+  
 </div>
 
 
