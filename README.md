@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=venom&text=YeongBi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=42&duration=3000&pause=1001&color=9346F7&width=435&lines=YB+%2C+It's+Full+-+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&duration=3000&pause=1001&color=9346F7&width=435&lines=YB+%2C+It's+Full+-+Stack+Developer)](https://git.io/typing-svg)
 
 
 <div align="center">
