@@ -66,5 +66,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
+<br />
+
+<div align="center">
+  <h1> ⚡ Stats ⚡</h1>
+</div> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=blue-green" />
