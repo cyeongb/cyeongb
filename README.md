@@ -1,7 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=venom&text=YeongBi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&duration=3000&pause=1001&color=9346F7&width=435&vCenter=true&lines=YB+%2C+I'm+Full+-+Stack+Dev.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&letterSpacing=0&duration=3000&pause=1000&color=9346F7&background=3B36389C&center=true&vCenter=true&width=505&height=60&lines=YB++Full+-+Stack+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <h1>🤚🏻 Hi! my name is Yeongbi Choi</h1>
