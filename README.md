@@ -75,6 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cyeongb&theme=radical" />
 </div>
 <br />
-<div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio)](https://github.com/cyeongb/new_yb-portfolio)
-</div>
+
