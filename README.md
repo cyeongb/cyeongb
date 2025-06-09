@@ -88,7 +88,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=new_yb-portfolio"/>
   </a>
   <a href="https://github.com/cyeongb/stock-frontend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=repo=stock-frontend"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=stock-frontend"/>
   </a>
   <a href="https://github.com/cyeongb/project4" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?show_icons=true&theme=onedark&username=cyeongb&repo=project4"/>
