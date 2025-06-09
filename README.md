@@ -77,6 +77,10 @@
 <br />
 
 <div align="center">
+  <h1> ⚡ My Work ⚡</h1>
+</div> 
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=new_yb-portfolio" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=stock-frontend" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=cyeongb&repo=project4" />
