@@ -12,12 +12,9 @@
 </div> 
 
 <div align="center">
-  <h3>I'm a third-year Computer Science student who absolutely adores ANIMAL💕</h3>
+  <h3>👩🏻‍💻I'm a third-year Computer Science student who absolutely adores ANIMAL💕</h3>
 </div> 
 
-<div align="center">
-  <h3>🎨 I'm a Language-Agnostic</h3>
-</div> 
 
 <div align="center">
   <h3>🎨 I'm a Language-Agnostic</h3>
