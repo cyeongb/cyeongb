@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&letterSpacing=0&duration=4000&pause=1000&color=9346F7&background=FFEAF200&center=true&vCenter=true&width=1000&height=70&lines=I'm++Full+-+Stack+Developer;I'm+Language-Agnostic;I'm+Yeongbi+Choi)](https://git.io/typing-svg)
 
 <div align="center">
-  <h1> ⭐ my name is Yeongbi Choi</h1>
+  <h3> ⭐ my name is Yeongbi Choi</h3>
 </div> 
 
 <div align="center">
