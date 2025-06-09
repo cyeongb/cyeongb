@@ -1,9 +1,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=venom&text=YeongBi&fontAlign=30&fontSize=30&desc=It's%YB&descAlign=60&descAlignY=50&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=It's+YB;Full-Stack+Developer+from+Korea)](https://git.io/typing-svg)
-<div align="center">
-  <h1>🌟 It's YB The Full-Stack Developer from South Korea 🌟</h1>
-</div> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=42&letterSpacing=1rem&duration=3000&pause=1001&color=9346F7&background=3B36389C&width=435&lines=YB+%2C+It's+Full+-+Stack+Developer)](https://git.io/typing-svg)
+
 
 <div align="center">
   <h1>🤚🏻 Hi! my name is Yeongbi Choi</h1>
