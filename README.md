@@ -3,31 +3,31 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&letterSpacing=0&duration=4000&pause=1000&color=9346F7&background=FFEAF200&center=true&vCenter=true&width=1000&height=70&lines=I'm++Full+-+Stack+Developer;I'm+Language-Agnostic;I'm+Yeongbi+Choi)](https://git.io/typing-svg)
 
 <div align="center">
-  <h3> ⭐ my name is Yeongbi Choi</h3>
+  <h3> ⭐ my name is Yeongbi Choi ⭐</h3>
 </div> 
 
 <div align="center">
-  <h3>🔭 I'm currently "looking for a job"</h3>
+  <h3> 🔭 I'm currently "looking for a job" 🔭</h3>
 </div> 
 
 <div align="center">
-  <h3>👩🏻‍💻I'm a third-year Computer Science student who absolutely adores ANIMAL💕</h3>
+  <h3> 👩🏻‍💻I'm a third-year Computer Science student who absolutely adores ANIMAL💕 </h3>
 </div> 
 
 <div align="center">
-  <h3>😺Profile Photo is my Lvly Cat Gambi💕💕💕</h3>
+  <h3> 😺Profile Photo is my Lvly Cat Gambi💕💕💕 </h3>
 </div> 
 
 <div align="center">
-  <h3>🎨 I'm a Language-Agnostic</h3>
+  <h3> 🎨 I'm a Language-Agnostic </h3>
 </div> 
 
 <div align="center">
-  <h3>📫 How to reach me: LinkedIn , Instagram</h3>
+  <h3>📫 How to reach me: LinkedIn , Instagram 📫</h3>
 </div> 
 
 <div align="center">
-  <h1>⚒️ What I've Used⚒️</h1>
+  <h1>⚒️ What I've Used ⚒️</h1>
 </div> 
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 <div align="center">
-  <h1>🧱TooLs 🧱 </h1>
+  <h1>🧱 Tools 🧱 </h1>
 </div> 
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
