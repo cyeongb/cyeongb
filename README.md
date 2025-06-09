@@ -7,14 +7,24 @@
   <h1>🤚🏻 Hi! my name is Yeongbi Choi</h1>
 </div> 
 
-🔭 I'm currently "looking for a job"
+<div align="center">
+  <h3>🔭 I'm currently "looking for a job"</h3>
+</div> 
 
-🌱 I'm currently learning Computer Science.
+<div align="center">
+  <h3>I'm a third-year Computer Science student who absolutely adores ANIMAL💕</h3>
+</div> 
 
-🎨 I'm a Language-Agnostic
+<div align="center">
+  <h3>🎨 I'm a Language-Agnostic</h3>
+</div> 
 
-📫 How to reach me: LinkedIn , Instagram
+<div align="center">
+  <h3>🎨 I'm a Language-Agnostic</h3>
+</div> 
 
-🚀 I'm a third-year Computer Science student who absolutely adores ANIMAL💕
+<div align="center">
+  <h3>📫 How to reach me: LinkedIn , Instagram</h3>
+</div> 
 
 ⚒️ Languages - Frameworks - Tools ⚒️ skills
